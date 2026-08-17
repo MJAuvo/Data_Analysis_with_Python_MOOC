@@ -1,5 +1,5 @@
 # Data Analysis in Python (MOOC)
-This repo contains exercises and the project work that are included in the *Data Analysis in Python* course organized by University of Helsinki, Department of Computer Science. The course is organized as follows:
+This repo contains source code for exercises and the project work that are included in the *Data Analysis in Python* course organized by University of Helsinki, Department of Computer Science. The course is organized as follows:
 
 ### Part 1: Python
 ### Part 2: More Python and NumPy
